@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Flexy using react native**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **android, .net, mearn**
 
