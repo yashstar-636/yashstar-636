@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **rathodyash636@gmail.com**
 
-- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
