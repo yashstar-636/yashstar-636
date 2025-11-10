@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Flexy using react native**
+- 🔭 I’m currently working on **Sas web application using Nuxt js,Vue js**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Nuxt js & Vue js**
 
-- 💬 Ask me about **android, .net, mearn**
+- 💬 Ask me about **Android, React Js, MERN Stack, Nuxt js, Vue js, React Native,Sql & No Sql**
 
 - 📫 How to reach me **rathodyash636@gmail.com**
 
